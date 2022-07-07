@@ -1,0 +1,1461 @@
+{
+	"name":"rarity report",
+	"value": [{
+			"trait_type":"Background",
+			"trait_data": [{
+					"trait":"Blue Comic",
+					"weight":"5",
+					"occurrence":"442 in 15000 editions (2.95 %)"
+				},
+				{
+					"trait":"Blue Field",
+					"weight":"10",
+					"occurrence":"927 in 15000 editions (6.18 %)"
+				},
+				{
+					"trait":"Blue",
+					"weight":"24",
+					"occurrence":"2263 in 15000 editions (15.09 %)"
+				},
+				{
+					"trait":"Green",
+					"weight":"24",
+					"occurrence":"2327 in 15000 editions (15.51 %)"
+				},
+				{
+					"trait":"Moonnight",
+					"weight":"10",
+					"occurrence":"912 in 15000 editions (6.08 %)"
+				},
+				{
+					"trait":"Pink",
+					"weight":"24",
+					"occurrence":"2203 in 15000 editions (14.69 %)"
+				},
+				{
+					"trait":"Purple",
+					"weight":"24",
+					"occurrence":"2312 in 15000 editions (15.41 %)"
+				},
+				{
+					"trait":"Yellow Comic",
+					"weight":"5",
+					"occurrence":"437 in 15000 editions (2.91 %)"
+				},
+				{
+					"trait":"Yellow Field",
+					"weight":"10",
+					"occurrence":"959 in 15000 editions (6.39 %)"
+				},
+				{
+					"trait":"Yellow",
+					"weight":"24",
+					"occurrence":"2218 in 15000 editions (14.79 %)"
+				}
+			]
+		},
+		{
+			"trait_type":"Fur & Emotes",
+			"trait_data": [{
+					"trait":"Brown/Angry",
+					"weight":"10",
+					"occurrence":"170 in 15000 editions (1.13 %)"
+				},
+				{
+					"trait":"Brown/Boring",
+					"weight":"10",
+					"occurrence":"156 in 15000 editions (1.04 %)"
+				},
+				{
+					"trait":"Brown/Cool",
+					"weight":"10",
+					"occurrence":"161 in 15000 editions (1.07 %)"
+				},
+				{
+					"trait":"Brown/Funny",
+					"weight":"10",
+					"occurrence":"167 in 15000 editions (1.11 %)"
+				},
+				{
+					"trait":"Brown/Glad",
+					"weight":"10",
+					"occurrence":"192 in 15000 editions (1.28 %)"
+				},
+				{
+					"trait":"Brown/Grin",
+					"weight":"10",
+					"occurrence":"178 in 15000 editions (1.19 %)"
+				},
+				{
+					"trait":"Brown/Happy",
+					"weight":"10",
+					"occurrence":"154 in 15000 editions (1.03 %)"
+				},
+				{
+					"trait":"Brown/Scare",
+					"weight":"10",
+					"occurrence":"153 in 15000 editions (1.02 %)"
+				},
+				{
+					"trait":"Brown/Smirk",
+					"weight":"10",
+					"occurrence":"168 in 15000 editions (1.12 %)"
+				},
+				{
+					"trait":"Brown/Wink",
+					"weight":"10",
+					"occurrence":"149 in 15000 editions (0.99 %)"
+				},
+				{
+					"trait":"Brown/Wow",
+					"weight":"10",
+					"occurrence":"154 in 15000 editions (1.03 %)"
+				},
+				{
+					"trait":"Geen/Angry",
+					"weight":"10",
+					"occurrence":"177 in 15000 editions (1.18 %)"
+				},
+				{
+					"trait":"Geen/Boring",
+					"weight":"10",
+					"occurrence":"164 in 15000 editions (1.09 %)"
+				},
+				{
+					"trait":"Geen/Cool",
+					"weight":"10",
+					"occurrence":"165 in 15000 editions (1.10 %)"
+				},
+				{
+					"trait":"Geen/Funny",
+					"weight":"10",
+					"occurrence":"165 in 15000 editions (1.10 %)"
+				},
+				{
+					"trait":"Geen/Glad",
+					"weight":"10",
+					"occurrence":"144 in 15000 editions (0.96 %)"
+				},
+				{
+					"trait":"Geen/Grin",
+					"weight":"10",
+					"occurrence":"164 in 15000 editions (1.09 %)"
+				},
+				{
+					"trait":"Geen/Happy",
+					"weight":"10",
+					"occurrence":"195 in 15000 editions (1.30 %)"
+				},
+				{
+					"trait":"Geen/Scare",
+					"weight":"10",
+					"occurrence":"163 in 15000 editions (1.09 %)"
+				},
+				{
+					"trait":"Geen/Smirk",
+					"weight":"10",
+					"occurrence":"170 in 15000 editions (1.13 %)"
+				},
+				{
+					"trait":"Geen/Wink",
+					"weight":"10",
+					"occurrence":"181 in 15000 editions (1.21 %)"
+				},
+				{
+					"trait":"Geen/Wow",
+					"weight":"10",
+					"occurrence":"175 in 15000 editions (1.17 %)"
+				},
+				{
+					"trait":"Grey/Angry",
+					"weight":"10",
+					"occurrence":"186 in 15000 editions (1.24 %)"
+				},
+				{
+					"trait":"Grey/Boring",
+					"weight":"10",
+					"occurrence":"155 in 15000 editions (1.03 %)"
+				},
+				{
+					"trait":"Grey/Cool",
+					"weight":"10",
+					"occurrence":"165 in 15000 editions (1.10 %)"
+				},
+				{
+					"trait":"Grey/Funny",
+					"weight":"10",
+					"occurrence":"155 in 15000 editions (1.03 %)"
+				},
+				{
+					"trait":"Grey/Glad",
+					"weight":"10",
+					"occurrence":"177 in 15000 editions (1.18 %)"
+				},
+				{
+					"trait":"Grey/Grin",
+					"weight":"10",
+					"occurrence":"153 in 15000 editions (1.02 %)"
+				},
+				{
+					"trait":"Grey/Happy",
+					"weight":"10",
+					"occurrence":"176 in 15000 editions (1.17 %)"
+				},
+				{
+					"trait":"Grey/Scare",
+					"weight":"10",
+					"occurrence":"161 in 15000 editions (1.07 %)"
+				},
+				{
+					"trait":"Grey/Smirk",
+					"weight":"10",
+					"occurrence":"172 in 15000 editions (1.15 %)"
+				},
+				{
+					"trait":"Grey/Wink",
+					"weight":"10",
+					"occurrence":"159 in 15000 editions (1.06 %)"
+				},
+				{
+					"trait":"Grey/Wow",
+					"weight":"10",
+					"occurrence":"188 in 15000 editions (1.25 %)"
+				},
+				{
+					"trait":"Panda/Angry",
+					"weight":"10",
+					"occurrence":"168 in 15000 editions (1.12 %)"
+				},
+				{
+					"trait":"Panda/Boring",
+					"weight":"10",
+					"occurrence":"150 in 15000 editions (1.00 %)"
+				},
+				{
+					"trait":"Panda/Cool",
+					"weight":"10",
+					"occurrence":"158 in 15000 editions (1.05 %)"
+				},
+				{
+					"trait":"Panda/Funny",
+					"weight":"10",
+					"occurrence":"172 in 15000 editions (1.15 %)"
+				},
+				{
+					"trait":"Panda/Glad",
+					"weight":"10",
+					"occurrence":"165 in 15000 editions (1.10 %)"
+				},
+				{
+					"trait":"Panda/Grin",
+					"weight":"10",
+					"occurrence":"170 in 15000 editions (1.13 %)"
+				},
+				{
+					"trait":"Panda/Happy",
+					"weight":"10",
+					"occurrence":"166 in 15000 editions (1.11 %)"
+				},
+				{
+					"trait":"Panda/Scare",
+					"weight":"10",
+					"occurrence":"176 in 15000 editions (1.17 %)"
+				},
+				{
+					"trait":"Panda/Smirk",
+					"weight":"10",
+					"occurrence":"185 in 15000 editions (1.23 %)"
+				},
+				{
+					"trait":"Panda/Wink",
+					"weight":"10",
+					"occurrence":"159 in 15000 editions (1.06 %)"
+				},
+				{
+					"trait":"Panda/Wow",
+					"weight":"10",
+					"occurrence":"173 in 15000 editions (1.15 %)"
+				},
+				{
+					"trait":"Purple/Angry",
+					"weight":"10",
+					"occurrence":"181 in 15000 editions (1.21 %)"
+				},
+				{
+					"trait":"Purple/Boring",
+					"weight":"10",
+					"occurrence":"179 in 15000 editions (1.19 %)"
+				},
+				{
+					"trait":"Purple/Cool",
+					"weight":"10",
+					"occurrence":"187 in 15000 editions (1.25 %)"
+				},
+				{
+					"trait":"Purple/Funny",
+					"weight":"10",
+					"occurrence":"152 in 15000 editions (1.01 %)"
+				},
+				{
+					"trait":"Purple/Glad",
+					"weight":"10",
+					"occurrence":"178 in 15000 editions (1.19 %)"
+				},
+				{
+					"trait":"Purple/Grin",
+					"weight":"10",
+					"occurrence":"168 in 15000 editions (1.12 %)"
+				},
+				{
+					"trait":"Purple/Happy",
+					"weight":"10",
+					"occurrence":"153 in 15000 editions (1.02 %)"
+				},
+				{
+					"trait":"Purple/Scare",
+					"weight":"10",
+					"occurrence":"170 in 15000 editions (1.13 %)"
+				},
+				{
+					"trait":"Purple/Smirk",
+					"weight":"10",
+					"occurrence":"166 in 15000 editions (1.11 %)"
+				},
+				{
+					"trait":"Purple/Wink",
+					"weight":"10",
+					"occurrence":"166 in 15000 editions (1.11 %)"
+				},
+				{
+					"trait":"Purple/Wow",
+					"weight":"10",
+					"occurrence":"183 in 15000 editions (1.22 %)"
+				},
+				{
+					"trait":"Red/Angry",
+					"weight":"10",
+					"occurrence":"172 in 15000 editions (1.15 %)"
+				},
+				{
+					"trait":"Red/Boring",
+					"weight":"10",
+					"occurrence":"169 in 15000 editions (1.13 %)"
+				},
+				{
+					"trait":"Red/Cool",
+					"weight":"10",
+					"occurrence":"180 in 15000 editions (1.20 %)"
+				},
+				{
+					"trait":"Red/Funny",
+					"weight":"10",
+					"occurrence":"168 in 15000 editions (1.12 %)"
+				},
+				{
+					"trait":"Red/Glad",
+					"weight":"10",
+					"occurrence":"166 in 15000 editions (1.11 %)"
+				},
+				{
+					"trait":"Red/Grin",
+					"weight":"10",
+					"occurrence":"180 in 15000 editions (1.20 %)"
+				},
+				{
+					"trait":"Red/Happy",
+					"weight":"10",
+					"occurrence":"201 in 15000 editions (1.34 %)"
+				},
+				{
+					"trait":"Red/Scare",
+					"weight":"10",
+					"occurrence":"164 in 15000 editions (1.09 %)"
+				},
+				{
+					"trait":"Red/Smirk",
+					"weight":"10",
+					"occurrence":"167 in 15000 editions (1.11 %)"
+				},
+				{
+					"trait":"Red/Wink",
+					"weight":"10",
+					"occurrence":"167 in 15000 editions (1.11 %)"
+				},
+				{
+					"trait":"Red/Wow",
+					"weight":"10",
+					"occurrence":"170 in 15000 editions (1.13 %)"
+				},
+				{
+					"trait":"Tiger/Angry",
+					"weight":"10",
+					"occurrence":"178 in 15000 editions (1.19 %)"
+				},
+				{
+					"trait":"Tiger/Boring",
+					"weight":"10",
+					"occurrence":"183 in 15000 editions (1.22 %)"
+				},
+				{
+					"trait":"Tiger/Cool",
+					"weight":"10",
+					"occurrence":"186 in 15000 editions (1.24 %)"
+				},
+				{
+					"trait":"Tiger/Funny",
+					"weight":"10",
+					"occurrence":"186 in 15000 editions (1.24 %)"
+				},
+				{
+					"trait":"Tiger/Glad",
+					"weight":"10",
+					"occurrence":"160 in 15000 editions (1.07 %)"
+				},
+				{
+					"trait":"Tiger/Grin",
+					"weight":"10",
+					"occurrence":"181 in 15000 editions (1.21 %)"
+				},
+				{
+					"trait":"Tiger/Happy",
+					"weight":"10",
+					"occurrence":"171 in 15000 editions (1.14 %)"
+				},
+				{
+					"trait":"Tiger/Scare",
+					"weight":"10",
+					"occurrence":"166 in 15000 editions (1.11 %)"
+				},
+				{
+					"trait":"Tiger/Smirk",
+					"weight":"10",
+					"occurrence":"186 in 15000 editions (1.24 %)"
+				},
+				{
+					"trait":"Tiger/Wink",
+					"weight":"10",
+					"occurrence":"180 in 15000 editions (1.20 %)"
+				},
+				{
+					"trait":"Tiger/Wow",
+					"weight":"10",
+					"occurrence":"180 in 15000 editions (1.20 %)"
+				},
+				{
+					"trait":"Yellow/Angry",
+					"weight":"10",
+					"occurrence":"166 in 15000 editions (1.11 %)"
+				},
+				{
+					"trait":"Yellow/Boring",
+					"weight":"10",
+					"occurrence":"165 in 15000 editions (1.10 %)"
+				},
+				{
+					"trait":"Yellow/Cool",
+					"weight":"10",
+					"occurrence":"180 in 15000 editions (1.20 %)"
+				},
+				{
+					"trait":"Yellow/Funny",
+					"weight":"10",
+					"occurrence":"176 in 15000 editions (1.17 %)"
+				},
+				{
+					"trait":"Yellow/Glad",
+					"weight":"10",
+					"occurrence":"183 in 15000 editions (1.22 %)"
+				},
+				{
+					"trait":"Yellow/Grin",
+					"weight":"10",
+					"occurrence":"167 in 15000 editions (1.11 %)"
+				},
+				{
+					"trait":"Yellow/Happy",
+					"weight":"10",
+					"occurrence":"189 in 15000 editions (1.26 %)"
+				},
+				{
+					"trait":"Yellow/Scare",
+					"weight":"10",
+					"occurrence":"151 in 15000 editions (1.01 %)"
+				},
+				{
+					"trait":"Yellow/Smirk",
+					"weight":"10",
+					"occurrence":"172 in 15000 editions (1.15 %)"
+				},
+				{
+					"trait":"Yellow/Wink",
+					"weight":"10",
+					"occurrence":"186 in 15000 editions (1.24 %)"
+				},
+				{
+					"trait":"Yellow/Wow",
+					"weight":"10",
+					"occurrence":"167 in 15000 editions (1.11 %)"
+				}
+			]
+		},
+		{
+			"trait_type":"Head",
+			"trait_data": [{
+					"trait":"Hair/Hiphop",
+					"weight":"10",
+					"occurrence":"1010 in 15000 editions (6.73 %)"
+				},
+				{
+					"trait":"Hair/Mohawk",
+					"weight":"10",
+					"occurrence":"998 in 15000 editions (6.65 %)"
+				},
+				{
+					"trait":"Hair/Mullet",
+					"weight":"10",
+					"occurrence":"991 in 15000 editions (6.61 %)"
+				},
+				{
+					"trait":"Hair/None",
+					"weight":"10",
+					"occurrence":"0 in 15000 editions (0.00 %)"
+				},
+				{
+					"trait":"Hair/Red Rock",
+					"weight":"10",
+					"occurrence":"984 in 15000 editions (6.56 %)"
+				},
+				{
+					"trait":"Hair/Silver Rock",
+					"weight":"10",
+					"occurrence":"1022 in 15000 editions (6.81 %)"
+				},
+				{
+					"trait":"Hats/Army #01",
+					"weight":"10",
+					"occurrence":"45 in 15000 editions (0.30 %)"
+				},
+				{
+					"trait":"Hats/Army #03",
+					"weight":"10",
+					"occurrence":"39 in 15000 editions (0.26 %)"
+				},
+				{
+					"trait":"Hats/Backwards",
+					"weight":"10",
+					"occurrence":"53 in 15000 editions (0.35 %)"
+				},
+				{
+					"trait":"Hats/Beautiful #01",
+					"weight":"10",
+					"occurrence":"37 in 15000 editions (0.25 %)"
+				},
+				{
+					"trait":"Hats/Beautiful #02",
+					"weight":"10",
+					"occurrence":"38 in 15000 editions (0.25 %)"
+				},
+				{
+					"trait":"Hats/Beret",
+					"weight":"10",
+					"occurrence":"35 in 15000 editions (0.23 %)"
+				},
+				{
+					"trait":"Hats/Black Forest Ranger",
+					"weight":"10",
+					"occurrence":"42 in 15000 editions (0.28 %)"
+				},
+				{
+					"trait":"Hats/Bowler",
+					"weight":"10",
+					"occurrence":"42 in 15000 editions (0.28 %)"
+				},
+				{
+					"trait":"Hats/Buckle",
+					"weight":"10",
+					"occurrence":"47 in 15000 editions (0.31 %)"
+				},
+				{
+					"trait":"Hats/Bullfighting",
+					"weight":"10",
+					"occurrence":"36 in 15000 editions (0.24 %)"
+				},
+				{
+					"trait":"Hats/Chef",
+					"weight":"10",
+					"occurrence":"41 in 15000 editions (0.27 %)"
+				},
+				{
+					"trait":"Hats/Clown #01",
+					"weight":"10",
+					"occurrence":"41 in 15000 editions (0.27 %)"
+				},
+				{
+					"trait":"Hats/Clown #02",
+					"weight":"10",
+					"occurrence":"38 in 15000 editions (0.25 %)"
+				},
+				{
+					"trait":"Hats/Clown #03",
+					"weight":"10",
+					"occurrence":"36 in 15000 editions (0.24 %)"
+				},
+				{
+					"trait":"Hats/Clown #04",
+					"weight":"10",
+					"occurrence":"53 in 15000 editions (0.35 %)"
+				},
+				{
+					"trait":"Hats/Commie",
+					"weight":"10",
+					"occurrence":"52 in 15000 editions (0.35 %)"
+				},
+				{
+					"trait":"Hats/Cowboy",
+					"weight":"10",
+					"occurrence":"46 in 15000 editions (0.31 %)"
+				},
+				{
+					"trait":"Hats/Crown",
+					"weight":"10",
+					"occurrence":"41 in 15000 editions (0.27 %)"
+				},
+				{
+					"trait":"Hats/Dead Space",
+					"weight":"10",
+					"occurrence":"52 in 15000 editions (0.35 %)"
+				},
+				{
+					"trait":"Hats/Detective",
+					"weight":"10",
+					"occurrence":"49 in 15000 editions (0.33 %)"
+				},
+				{
+					"trait":"Hats/Durag",
+					"weight":"10",
+					"occurrence":"38 in 15000 editions (0.25 %)"
+				},
+				{
+					"trait":"Hats/Evil",
+					"weight":"10",
+					"occurrence":"46 in 15000 editions (0.31 %)"
+				},
+				{
+					"trait":"Hats/Fez",
+					"weight":"10",
+					"occurrence":"42 in 15000 editions (0.28 %)"
+				},
+				{
+					"trait":"Hats/Firefighter",
+					"weight":"10",
+					"occurrence":"40 in 15000 editions (0.27 %)"
+				},
+				{
+					"trait":"Hats/Fisherman",
+					"weight":"10",
+					"occurrence":"56 in 15000 editions (0.37 %)"
+				},
+				{
+					"trait":"Hats/Football",
+					"weight":"10",
+					"occurrence":"49 in 15000 editions (0.33 %)"
+				},
+				{
+					"trait":"Hats/French Barret",
+					"weight":"10",
+					"occurrence":"32 in 15000 editions (0.21 %)"
+				},
+				{
+					"trait":"Hats/Graduation",
+					"weight":"10",
+					"occurrence":"39 in 15000 editions (0.26 %)"
+				},
+				{
+					"trait":"Hats/Guard",
+					"weight":"10",
+					"occurrence":"46 in 15000 editions (0.31 %)"
+				},
+				{
+					"trait":"Hats/JGP",
+					"weight":"10",
+					"occurrence":"44 in 15000 editions (0.29 %)"
+				},
+				{
+					"trait":"Hats/Knight",
+					"weight":"10",
+					"occurrence":"42 in 15000 editions (0.28 %)"
+				},
+				{
+					"trait":"Hats/Lincoln #01",
+					"weight":"10",
+					"occurrence":"32 in 15000 editions (0.21 %)"
+				},
+				{
+					"trait":"Hats/Lincoln #02",
+					"weight":"10",
+					"occurrence":"44 in 15000 editions (0.29 %)"
+				},
+				{
+					"trait":"Hats/Military #01",
+					"weight":"10",
+					"occurrence":"55 in 15000 editions (0.37 %)"
+				},
+				{
+					"trait":"Hats/Military #02",
+					"weight":"10",
+					"occurrence":"47 in 15000 editions (0.31 %)"
+				},
+				{
+					"trait":"Hats/Military #03",
+					"weight":"10",
+					"occurrence":"38 in 15000 editions (0.25 %)"
+				},
+				{
+					"trait":"Hats/Miner",
+					"weight":"10",
+					"occurrence":"41 in 15000 editions (0.27 %)"
+				},
+				{
+					"trait":"Hats/Motorbike",
+					"weight":"10",
+					"occurrence":"44 in 15000 editions (0.29 %)"
+				},
+				{
+					"trait":"Hats/None",
+					"weight":"120",
+					"occurrence":"0 in 15000 editions (0.00 %)"
+				},
+				{
+					"trait":"Hats/Nurse",
+					"weight":"10",
+					"occurrence":"59 in 15000 editions (0.39 %)"
+				},
+				{
+					"trait":"Hats/PIrate #01",
+					"weight":"10",
+					"occurrence":"49 in 15000 editions (0.33 %)"
+				},
+				{
+					"trait":"Hats/PIrate #02",
+					"weight":"10",
+					"occurrence":"43 in 15000 editions (0.29 %)"
+				},
+				{
+					"trait":"Hats/Party",
+					"weight":"10",
+					"occurrence":"41 in 15000 editions (0.27 %)"
+				},
+				{
+					"trait":"Hats/Pilot",
+					"weight":"10",
+					"occurrence":"33 in 15000 editions (0.22 %)"
+				},
+				{
+					"trait":"Hats/Red Forest Ranger",
+					"weight":"10",
+					"occurrence":"37 in 15000 editions (0.25 %)"
+				},
+				{
+					"trait":"Hats/SR Police",
+					"weight":"10",
+					"occurrence":"51 in 15000 editions (0.34 %)"
+				},
+				{
+					"trait":"Hats/Safari",
+					"weight":"10",
+					"occurrence":"60 in 15000 editions (0.40 %)"
+				},
+				{
+					"trait":"Hats/Sailor",
+					"weight":"10",
+					"occurrence":"48 in 15000 editions (0.32 %)"
+				},
+				{
+					"trait":"Hats/Sea Captain",
+					"weight":"10",
+					"occurrence":"46 in 15000 editions (0.31 %)"
+				},
+				{
+					"trait":"Hats/Sombrero",
+					"weight":"10",
+					"occurrence":"33 in 15000 editions (0.22 %)"
+				},
+				{
+					"trait":"Hats/Spinner",
+					"weight":"10",
+					"occurrence":"47 in 15000 editions (0.31 %)"
+				},
+				{
+					"trait":"Hats/Sport",
+					"weight":"10",
+					"occurrence":"46 in 15000 editions (0.31 %)"
+				},
+				{
+					"trait":"Hats/Tophat",
+					"weight":"10",
+					"occurrence":"36 in 15000 editions (0.24 %)"
+				},
+				{
+					"trait":"Hats/Traditional Japanese",
+					"weight":"10",
+					"occurrence":"66 in 15000 editions (0.44 %)"
+				},
+				{
+					"trait":"Hats/UBC",
+					"weight":"10",
+					"occurrence":"53 in 15000 editions (0.35 %)"
+				},
+				{
+					"trait":"Hats/UK Police",
+					"weight":"10",
+					"occurrence":"47 in 15000 editions (0.31 %)"
+				},
+				{
+					"trait":"Hats/Vietnamese",
+					"weight":"10",
+					"occurrence":"52 in 15000 editions (0.35 %)"
+				},
+				{
+					"trait":"Hats/Viking",
+					"weight":"10",
+					"occurrence":"47 in 15000 editions (0.31 %)"
+				},
+				{
+					"trait":"Hats/Winter",
+					"weight":"10",
+					"occurrence":"49 in 15000 editions (0.33 %)"
+				},
+				{
+					"trait":"Hats/Wizards",
+					"weight":"10",
+					"occurrence":"60 in 15000 editions (0.40 %)"
+				},
+				{
+					"trait":"Hats/Xmas",
+					"weight":"10",
+					"occurrence":"46 in 15000 editions (0.31 %)"
+				},
+				{
+					"trait":"Hats/YBC",
+					"weight":"10",
+					"occurrence":"34 in 15000 editions (0.23 %)"
+				},
+				{
+					"trait":"Hats/Zoro",
+					"weight":"10",
+					"occurrence":"51 in 15000 editions (0.34 %)"
+				},
+				{
+					"trait":"Top/Beer",
+					"weight":"10",
+					"occurrence":"136 in 15000 editions (0.91 %)"
+				},
+				{
+					"trait":"Top/Bitcoin",
+					"weight":"10",
+					"occurrence":"147 in 15000 editions (0.98 %)"
+				},
+				{
+					"trait":"Top/Blue Headphone",
+					"weight":"10",
+					"occurrence":"153 in 15000 editions (1.02 %)"
+				},
+				{
+					"trait":"Top/Broken Heart",
+					"weight":"10",
+					"occurrence":"154 in 15000 editions (1.03 %)"
+				},
+				{
+					"trait":"Top/Bunny Ears",
+					"weight":"10",
+					"occurrence":"146 in 15000 editions (0.97 %)"
+				},
+				{
+					"trait":"Top/Butterfly",
+					"weight":"10",
+					"occurrence":"149 in 15000 editions (0.99 %)"
+				},
+				{
+					"trait":"Top/Clock",
+					"weight":"10",
+					"occurrence":"155 in 15000 editions (1.03 %)"
+				},
+				{
+					"trait":"Top/Coffee",
+					"weight":"10",
+					"occurrence":"142 in 15000 editions (0.95 %)"
+				},
+				{
+					"trait":"Top/Fire",
+					"weight":"10",
+					"occurrence":"158 in 15000 editions (1.05 %)"
+				},
+				{
+					"trait":"Top/Fish",
+					"weight":"10",
+					"occurrence":"147 in 15000 editions (0.98 %)"
+				},
+				{
+					"trait":"Top/Hamburger",
+					"weight":"10",
+					"occurrence":"143 in 15000 editions (0.95 %)"
+				},
+				{
+					"trait":"Top/Headband",
+					"weight":"10",
+					"occurrence":"144 in 15000 editions (0.96 %)"
+				},
+				{
+					"trait":"Top/Horns",
+					"weight":"10",
+					"occurrence":"152 in 15000 editions (1.01 %)"
+				},
+				{
+					"trait":"Top/Ice Cream",
+					"weight":"10",
+					"occurrence":"140 in 15000 editions (0.93 %)"
+				},
+				{
+					"trait":"Top/Lightning",
+					"weight":"10",
+					"occurrence":"166 in 15000 editions (1.11 %)"
+				},
+				{
+					"trait":"Top/Pink Headphone",
+					"weight":"10",
+					"occurrence":"156 in 15000 editions (1.04 %)"
+				},
+				{
+					"trait":"Top/Pink Headset",
+					"weight":"10",
+					"occurrence":"152 in 15000 editions (1.01 %)"
+				},
+				{
+					"trait":"Top/Pizza",
+					"weight":"10",
+					"occurrence":"136 in 15000 editions (0.91 %)"
+				},
+				{
+					"trait":"Top/Rain",
+					"weight":"10",
+					"occurrence":"164 in 15000 editions (1.09 %)"
+				},
+				{
+					"trait":"Top/Rainbow",
+					"weight":"10",
+					"occurrence":"150 in 15000 editions (1.00 %)"
+				},
+				{
+					"trait":"Top/Regular Bandana",
+					"weight":"10",
+					"occurrence":"158 in 15000 editions (1.05 %)"
+				},
+				{
+					"trait":"Top/Spider",
+					"weight":"10",
+					"occurrence":"152 in 15000 editions (1.01 %)"
+				},
+				{
+					"trait":"Top/Watermelon",
+					"weight":"10",
+					"occurrence":"153 in 15000 editions (1.02 %)"
+				},
+				{
+					"trait":"Top/Xmas Tree",
+					"weight":"10",
+					"occurrence":"147 in 15000 editions (0.98 %)"
+				},
+				{
+					"trait":"Top/Yellow Headphone",
+					"weight":"10",
+					"occurrence":"144 in 15000 editions (0.96 %)"
+				}
+			]
+		},
+		{
+			"trait_type":"Beard",
+			"trait_data": [{
+					"trait":"Chin Curtain",
+					"weight":"10",
+					"occurrence":"2702 in 15000 editions (18.01 %)"
+				},
+				{
+					"trait":"Goatee",
+					"weight":"10",
+					"occurrence":"2677 in 15000 editions (17.85 %)"
+				},
+				{
+					"trait":"Hulihee",
+					"weight":"10",
+					"occurrence":"2713 in 15000 editions (18.09 %)"
+				},
+				{
+					"trait":"Petit Goatee",
+					"weight":"2",
+					"occurrence":"575 in 15000 editions (3.83 %)"
+				},
+				{
+					"trait":"Unshaven",
+					"weight":"10",
+					"occurrence":"2791 in 15000 editions (18.61 %)"
+				}
+			]
+		},
+		{
+			"trait_type":"Clothing",
+			"trait_data": [{
+					"trait":"Baseball Jacket",
+					"weight":"10",
+					"occurrence":"351 in 15000 editions (2.34 %)"
+				},
+				{
+					"trait":"Baseball Medal",
+					"weight":"5",
+					"occurrence":"182 in 15000 editions (1.21 %)"
+				},
+				{
+					"trait":"Baseball",
+					"weight":"10",
+					"occurrence":"322 in 15000 editions (2.15 %)"
+				},
+				{
+					"trait":"Blue Hawaii",
+					"weight":"10",
+					"occurrence":"352 in 15000 editions (2.35 %)"
+				},
+				{
+					"trait":"Blue Jacket",
+					"weight":"10",
+					"occurrence":"351 in 15000 editions (2.34 %)"
+				},
+				{
+					"trait":"Buckle Cloth",
+					"weight":"10",
+					"occurrence":"354 in 15000 editions (2.36 %)"
+				},
+				{
+					"trait":"Chef",
+					"weight":"10",
+					"occurrence":"367 in 15000 editions (2.45 %)"
+				},
+				{
+					"trait":"Cowboy",
+					"weight":"10",
+					"occurrence":"344 in 15000 editions (2.29 %)"
+				},
+				{
+					"trait":"Detective",
+					"weight":"10",
+					"occurrence":"319 in 15000 editions (2.13 %)"
+				},
+				{
+					"trait":"Firefighter",
+					"weight":"10",
+					"occurrence":"354 in 15000 editions (2.36 %)"
+				},
+				{
+					"trait":"Golf",
+					"weight":"10",
+					"occurrence":"365 in 15000 editions (2.43 %)"
+				},
+				{
+					"trait":"Green Jacket",
+					"weight":"10",
+					"occurrence":"354 in 15000 editions (2.36 %)"
+				},
+				{
+					"trait":"Hoddie Down #01",
+					"weight":"10",
+					"occurrence":"371 in 15000 editions (2.47 %)"
+				},
+				{
+					"trait":"Hoddie Down #02",
+					"weight":"10",
+					"occurrence":"345 in 15000 editions (2.30 %)"
+				},
+				{
+					"trait":"Hoddie Down Chain",
+					"weight":"5",
+					"occurrence":"194 in 15000 editions (1.29 %)"
+				},
+				{
+					"trait":"Lumberjack #01",
+					"weight":"10",
+					"occurrence":"364 in 15000 editions (2.43 %)"
+				},
+				{
+					"trait":"Lumberjack #02",
+					"weight":"10",
+					"occurrence":"339 in 15000 editions (2.26 %)"
+				},
+				{
+					"trait":"Lumberjack #03",
+					"weight":"10",
+					"occurrence":"375 in 15000 editions (2.50 %)"
+				},
+				{
+					"trait":"Lumberjack Medal",
+					"weight":"5",
+					"occurrence":"188 in 15000 editions (1.25 %)"
+				},
+				{
+					"trait":"Miner",
+					"weight":"10",
+					"occurrence":"352 in 15000 editions (2.35 %)"
+				},
+				{
+					"trait":"Motorbike Jacket",
+					"weight":"10",
+					"occurrence":"330 in 15000 editions (2.20 %)"
+				},
+				{
+					"trait":"Mummy",
+					"weight":"10",
+					"occurrence":"110 in 15000 editions (0.73 %)"
+				},
+				{
+					"trait":"Party Chain",
+					"weight":"5",
+					"occurrence":"168 in 15000 editions (1.12 %)"
+				},
+				{
+					"trait":"Party",
+					"weight":"10",
+					"occurrence":"378 in 15000 editions (2.52 %)"
+				},
+				{
+					"trait":"Police",
+					"weight":"10",
+					"occurrence":"346 in 15000 editions (2.31 %)"
+				},
+				{
+					"trait":"Poncho",
+					"weight":"10",
+					"occurrence":"326 in 15000 editions (2.17 %)"
+				},
+				{
+					"trait":"Prison Jumpsuit",
+					"weight":"10",
+					"occurrence":"376 in 15000 editions (2.51 %)"
+				},
+				{
+					"trait":"Puffy Vest",
+					"weight":"10",
+					"occurrence":"373 in 15000 editions (2.49 %)"
+				},
+				{
+					"trait":"Rapper",
+					"weight":"10",
+					"occurrence":"335 in 15000 editions (2.23 %)"
+				},
+				{
+					"trait":"Red Hawaii",
+					"weight":"10",
+					"occurrence":"338 in 15000 editions (2.25 %)"
+				},
+				{
+					"trait":"Red Jacket",
+					"weight":"10",
+					"occurrence":"379 in 15000 editions (2.53 %)"
+				},
+				{
+					"trait":"Rose",
+					"weight":"10",
+					"occurrence":"347 in 15000 editions (2.31 %)"
+				},
+				{
+					"trait":"Royal Chain",
+					"weight":"5",
+					"occurrence":"200 in 15000 editions (1.33 %)"
+				},
+				{
+					"trait":"Royal",
+					"weight":"10",
+					"occurrence":"346 in 15000 editions (2.31 %)"
+				},
+				{
+					"trait":"Safari",
+					"weight":"10",
+					"occurrence":"376 in 15000 editions (2.51 %)"
+				},
+				{
+					"trait":"Sailor",
+					"weight":"10",
+					"occurrence":"347 in 15000 editions (2.31 %)"
+				},
+				{
+					"trait":"Smoking Jacket #01",
+					"weight":"10",
+					"occurrence":"369 in 15000 editions (2.46 %)"
+				},
+				{
+					"trait":"Smoking Jacket #02",
+					"weight":"10",
+					"occurrence":"362 in 15000 editions (2.41 %)"
+				},
+				{
+					"trait":"Smoking Jacket Diamond",
+					"weight":"5",
+					"occurrence":"161 in 15000 editions (1.07 %)"
+				},
+				{
+					"trait":"Striped Tee",
+					"weight":"10",
+					"occurrence":"353 in 15000 editions (2.35 %)"
+				},
+				{
+					"trait":"Sweater",
+					"weight":"10",
+					"occurrence":"365 in 15000 editions (2.43 %)"
+				},
+				{
+					"trait":"Tshirt",
+					"weight":"10",
+					"occurrence":"350 in 15000 editions (2.33 %)"
+				},
+				{
+					"trait":"Tuxedo",
+					"weight":"10",
+					"occurrence":"379 in 15000 editions (2.53 %)"
+				},
+				{
+					"trait":"UBC",
+					"weight":"10",
+					"occurrence":"354 in 15000 editions (2.36 %)"
+				},
+				{
+					"trait":"Work Vest",
+					"weight":"10",
+					"occurrence":"350 in 15000 editions (2.33 %)"
+				},
+				{
+					"trait":"Yellow Hawaii",
+					"weight":"10",
+					"occurrence":"339 in 15000 editions (2.26 %)"
+				}
+			]
+		},
+		{
+			"trait_type":"Scarves",
+			"trait_data": [{
+					"trait":"Blue",
+					"weight":"10",
+					"occurrence":"1308 in 15000 editions (8.72 %)"
+				},
+				{
+					"trait":"None",
+					"weight":"40",
+					"occurrence":"0 in 15000 editions (0.00 %)"
+				},
+				{
+					"trait":"Purple Yellow",
+					"weight":"10",
+					"occurrence":"1275 in 15000 editions (8.50 %)"
+				},
+				{
+					"trait":"Red",
+					"weight":"10",
+					"occurrence":"1255 in 15000 editions (8.37 %)"
+				},
+				{
+					"trait":"White Brown",
+					"weight":"10",
+					"occurrence":"1274 in 15000 editions (8.49 %)"
+				},
+				{
+					"trait":"Xmas",
+					"weight":"10",
+					"occurrence":"1305 in 15000 editions (8.70 %)"
+				},
+				{
+					"trait":"Yellow",
+					"weight":"10",
+					"occurrence":"1201 in 15000 editions (8.01 %)"
+				}
+			]
+		},
+		{
+			"trait_type":"Eyewear",
+			"trait_data": [{
+					"trait":"3D",
+					"weight":"10",
+					"occurrence":"253 in 15000 editions (1.69 %)"
+				},
+				{
+					"trait":"Aviators",
+					"weight":"10",
+					"occurrence":"312 in 15000 editions (2.08 %)"
+				},
+				{
+					"trait":"Black Half Eye",
+					"weight":"10",
+					"occurrence":"277 in 15000 editions (1.85 %)"
+				},
+				{
+					"trait":"Black Rimmed",
+					"weight":"10",
+					"occurrence":"272 in 15000 editions (1.81 %)"
+				},
+				{
+					"trait":"Blindfold",
+					"weight":"10",
+					"occurrence":"299 in 15000 editions (1.99 %)"
+				},
+				{
+					"trait":"Bug",
+					"weight":"10",
+					"occurrence":"276 in 15000 editions (1.84 %)"
+				},
+				{
+					"trait":"Cherry",
+					"weight":"10",
+					"occurrence":"259 in 15000 editions (1.73 %)"
+				},
+				{
+					"trait":"Diving",
+					"weight":"10",
+					"occurrence":"298 in 15000 editions (1.99 %)"
+				},
+				{
+					"trait":"Eyepatch",
+					"weight":"10",
+					"occurrence":"280 in 15000 editions (1.87 %)"
+				},
+				{
+					"trait":"Half Moon",
+					"weight":"10",
+					"occurrence":"299 in 15000 editions (1.99 %)"
+				},
+				{
+					"trait":"Heart",
+					"weight":"10",
+					"occurrence":"280 in 15000 editions (1.87 %)"
+				},
+				{
+					"trait":"Kitty",
+					"weight":"10",
+					"occurrence":"279 in 15000 editions (1.86 %)"
+				},
+				{
+					"trait":"Lightning",
+					"weight":"10",
+					"occurrence":"288 in 15000 editions (1.92 %)"
+				},
+				{
+					"trait":"Masquerade #01",
+					"weight":"10",
+					"occurrence":"291 in 15000 editions (1.94 %)"
+				},
+				{
+					"trait":"Masquerade #02",
+					"weight":"10",
+					"occurrence":"259 in 15000 editions (1.73 %)"
+				},
+				{
+					"trait":"Masquerade #03",
+					"weight":"10",
+					"occurrence":"260 in 15000 editions (1.73 %)"
+				},
+				{
+					"trait":"Monocle",
+					"weight":"10",
+					"occurrence":"259 in 15000 editions (1.73 %)"
+				},
+				{
+					"trait":"None",
+					"weight":"260",
+					"occurrence":"0 in 15000 editions (0.00 %)"
+				},
+				{
+					"trait":"Pantos",
+					"weight":"10",
+					"occurrence":"291 in 15000 editions (1.94 %)"
+				},
+				{
+					"trait":"Stars",
+					"weight":"10",
+					"occurrence":"277 in 15000 editions (1.85 %)"
+				},
+				{
+					"trait":"Student Glass",
+					"weight":"10",
+					"occurrence":"277 in 15000 editions (1.85 %)"
+				},
+				{
+					"trait":"Sunglasses",
+					"weight":"10",
+					"occurrence":"288 in 15000 editions (1.92 %)"
+				},
+				{
+					"trait":"Visor",
+					"weight":"10",
+					"occurrence":"283 in 15000 editions (1.89 %)"
+				},
+				{
+					"trait":"X Eyes",
+					"weight":"10",
+					"occurrence":"295 in 15000 editions (1.97 %)"
+				},
+				{
+					"trait":"Yellow Half Eye",
+					"weight":"10",
+					"occurrence":"286 in 15000 editions (1.91 %)"
+				},
+				{
+					"trait":"Yellow",
+					"weight":"10",
+					"occurrence":"315 in 15000 editions (2.10 %)"
+				},
+				{
+					"trait":"Zoro Mask",
+					"weight":"10",
+					"occurrence":"277 in 15000 editions (1.85 %)"
+				}
+			]
+		},
+		{
+			"trait_type":"Mouth",
+			"trait_data": [{
+					"trait":"Bubblegum",
+					"weight":"10",
+					"occurrence":"935 in 15000 editions (6.23 %)"
+				},
+				{
+					"trait":"Cigar",
+					"weight":"10",
+					"occurrence":"955 in 15000 editions (6.37 %)"
+				},
+				{
+					"trait":"Cigarette",
+					"weight":"10",
+					"occurrence":"971 in 15000 editions (6.47 %)"
+				},
+				{
+					"trait":"Drool",
+					"weight":"50",
+					"occurrence":"339 in 15000 editions (2.26 %)"
+				},
+				{
+					"trait":"None",
+					"weight":"70",
+					"occurrence":"0 in 15000 editions (0.00 %)"
+				},
+				{
+					"trait":"Party Whistle",
+					"weight":"10",
+					"occurrence":"962 in 15000 editions (6.41 %)"
+				},
+				{
+					"trait":"Pencil",
+					"weight":"10",
+					"occurrence":"931 in 15000 editions (6.21 %)"
+				},
+				{
+					"trait":"Pipe",
+					"weight":"10",
+					"occurrence":"852 in 15000 editions (5.68 %)"
+				}
+			]
+		}
+	]
+}
